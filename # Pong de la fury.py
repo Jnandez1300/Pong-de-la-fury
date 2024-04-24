@@ -1,10 +1,6 @@
 # Pong de la fury
 # By Julian Hernandez
 
-
-
-
-
 import turtle
 
 wn = turtle.Screen()
