@@ -34,7 +34,7 @@ Tips:
 
 Enjoy the game!
 
-These instructions provide a clear overview of how to play the game and what to expect, making it easier for users to understand and enjoy the Pong experience.
+
 
 Special thanks to Professor Pogue,Gera Arroyo,and to the formidable five.
 
