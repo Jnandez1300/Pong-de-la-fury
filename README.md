@@ -1,3 +1,4 @@
+ https://jnandez1300.github.io/class-project-proposal/
 Pong de la Fury Instructions:
 Objective:
 The goal of Pong de la Fury is to score points by hitting the ball past your opponent's paddle.
